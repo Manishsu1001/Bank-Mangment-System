@@ -35,7 +35,6 @@ NOTE********************************************
         
         data.txt will be automatically created in the folder once created account for someone. 
         
-    ********************************************
     
 
 
