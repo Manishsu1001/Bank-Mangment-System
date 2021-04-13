@@ -2,15 +2,22 @@
 This project is Bank Managment system, here I gave the power to create account and check the data sheet to the Bank employee.
 Customer can: 
                 1. See his current balance and last transaction.
+                
                 2. Withdraw or deposit money
+                
                 3. Transfer money
+                
                 4. See his full balance sheet
+                
                 5. Change his password
                 
                 
 Bank employee can       1. Check the balance sheet of any particular day
+                        
                         2. Check the balance sheet of the current day
+                        
                         3. Check the balance sheet of a particular customer
+                        
                         4. Create an account for customer
 
 NOTE********************************************
